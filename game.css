@@ -17,12 +17,12 @@ h1 {
 
 p {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .choice-container {
     display: flex;
-    width: 50%;
+    width: 75%;
     border: 2px solid indigo;
     border-radius: 4px;
     background: linear-gradient(90deg, #218380 0%, #73D2DE 100%);
