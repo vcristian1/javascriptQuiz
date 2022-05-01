@@ -1,0 +1,89 @@
+:root {
+    background-color: #FFA630;
+    font-family: 'Square Peg', cursive;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+.choice-container {
+    display: flex;
+    width: 50%;
+    border: 2px solid indigo;
+    border-radius: 4px;
+    background: linear-gradient(90deg, #218380 0%, #73D2DE 100%);
+    padding: 10px;
+    cursor: pointer;
+    transform: scale(1.02);
+    transform: transform 100ms; 
+}
+
+
+.choice-text {
+    transform: scale(1.02);
+    transform: transform 100ms; 
+}
+
+.choice-prefix {
+    padding: 10px;
+    color: white;
+
+}
+
+.choice-text {
+    padding: 20px;
+}
+
+
+.correct {
+    background: linear-gradient(32deg, green 0%, darkgreen 100%);
+}
+
+.incorrect {
+    background: linear-gradient(32deg, red 0%, darkred 100%);
+}
+
+.hud-main-text {
+    padding: 10px;
+    font-size: 30px;
+    color: green;
+}
+
+#progressBar {
+    width: 300px;
+    height: 25px;
+    border: 2px darkgreen solid;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+#progressBarFull {
+   height: 100%;
+   background: green;
+   width: 0%;
+}
+
+.btn {
+    font-size: 2.5rem;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(90deg, #218380 0%, #73D2DE 100%);
+}
