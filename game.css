@@ -22,7 +22,7 @@ p {
 
 .choice-container {
     display: flex;
-    width: 75%;
+    width: 100%;
     border: 2px solid indigo;
     border-radius: 4px;
     background: linear-gradient(90deg, #218380 0%, #73D2DE 100%);
