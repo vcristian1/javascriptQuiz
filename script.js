@@ -47,7 +47,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Which javascript language can be used for shortcuts?",
+        question: "Which javascript library can be used for shortcuts?",
         choice1: "Jquery",
         choice2: "CSS",
         choice3: "Bootstrap",
