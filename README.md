@@ -6,5 +6,5 @@ This is a dynamic javascript quiz that gives the user 6 multiple choice question
 [Github Pages](https://vcristian1.github.io/javascriptQuiz-demo/)
 [Repository](https://github.com/vcristian1javascriptQuiz-demo)
 
-# Images
-Images are included in the "imgs" folder.
+# Screenshot
+![](https://github.com/vcristian1/javascriptQuiz-demo/blob/main/imgs/JS%20Quiz%20Correct%20Answer.png)
